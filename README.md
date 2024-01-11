@@ -1,5 +1,3 @@
-# 经书
-
 ![1-2](https://github.com/HG-BengYuan/jingshu/blob/main/1-2.jpg)
 ![3-4](https://github.com/HG-BengYuan/jingshu/blob/main/3-4.jpg)
 ![5-6](https://github.com/HG-BengYuan/jingshu/blob/main/5-6.jpg)
